@@ -1,0 +1,26 @@
+{
+  "name": "wk_eighteen_challenge",
+  "version": "1.0.0",
+  "description": "Social Media API",
+  "main": "sever.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.10.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allielynne20/wk_eighteen_challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allielynne20/wk_eighteen_challenge/issues"
+  },
+  "homepage": "https://github.com/allielynne20/wk_eighteen_challenge#readme"
+}
