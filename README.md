@@ -16,8 +16,7 @@
    To use this api one would need to run npm install mongoose, express, and moment. Then, the user would need to start the server by running npm start.  
 
   ## Usage 
-  [social network Part1 video](https://drive.google.com/file/d/14L6opLW2zJrunBXj8zTZ4QcALzMdjx3B/view)
-  [social network Part2 video](https://drive.google.com/file/d/1eRSTSd6TAPz48OFA1uP5xttLPpI7DthO/view)
+  [social media video](https://drive.google.com/file/d/1HUuCU-Cg9sM7t5asnVRJyuY3tsIqUYh7/view)
   
   ## Contributions 
   Please submit a GitHub issue in the repo for any major change suggestions. 
